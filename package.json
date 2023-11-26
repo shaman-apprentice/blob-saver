@@ -6,10 +6,13 @@
   "license": "MIT",
   "author": "shaman-apprentice",
   "description": "Lets you download a blob within a browser",
-  "keywords": ["file-saver", "download"],
+  "keywords": [
+    "file-saver",
+    "download"
+  ],
   "homepage": "https://github.com/shaman-apprentice/blob-saver",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/npm/cli.git"
+    "type": "git",
+    "url": "git+https://github.com/npm/cli.git"
   }
 }
