@@ -1,6 +1,6 @@
 {
   "name": "@shaman-apprentice/blob-saver",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "main": "src/main.mjs",
   "types": "types/main.d.mts",
   "private": false,
@@ -14,7 +14,7 @@
   "homepage": "https://github.com/shaman-apprentice/blob-saver",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/npm/cli.git"
+    "url": "https://github.com/shaman-apprentice/blob-saver.git"
   },
   "scripts": {
     "build": "npx -p typescript tsc src/main.mjs --declaration --allowJs --emitDeclarationOnly --outDir types"
